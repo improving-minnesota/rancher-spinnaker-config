@@ -1,0 +1,6 @@
+[template]
+src = "config.tmpl"
+dest = "/root/.aws/config"
+keys = [
+    "/self/service/metadata/aws/config"
+]

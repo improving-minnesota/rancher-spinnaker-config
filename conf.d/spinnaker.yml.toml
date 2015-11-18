@@ -1,0 +1,6 @@
+[template]
+src = "spinnaker.yml.tmpl"
+dest = "/opt/spinnaker/config/spinnaker.yml"
+keys = [
+    "/self/service/metadata/spinnaker"
+]
