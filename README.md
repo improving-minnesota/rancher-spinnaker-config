@@ -1,6 +1,6 @@
 # Rancher Spinnaker Configuration Container
 
-This project provides a Docker container to use in conjunction with [Rancher](rancher.com) when deploying the [Spinnaker](spinnaker.io) continuous deployment platform.
+This project provides a Docker container to use in conjunction with [Rancher](http://rancher.com) when deploying the [Spinnaker](http://spinnaker.io) continuous deployment platform.
 
 ## How does it work?
 
